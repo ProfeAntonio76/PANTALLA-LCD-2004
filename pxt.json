@@ -1,0 +1,16 @@
+{
+    "name": "lcd2004",
+    "version": "1.0.0",
+    "description": "Extensión para controlar pantallas LCD 2004 (20x4) por I2C en MakeCode para micro:bit.",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "license": "MIT"
+}
